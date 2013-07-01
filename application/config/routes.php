@@ -38,7 +38,11 @@
 |
 */
 
+<<<<<<< HEAD
 $route['default_controller'] = "welcome";
+=======
+$route['default_controller'] = "bienvenido";
+>>>>>>> hola mundo
 $route['404_override'] = '';
 
 

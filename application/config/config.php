@@ -14,7 +14,11 @@
 | path to your installation.
 |
 */
+<<<<<<< HEAD
 $config['base_url']	= '';
+=======
+$config['base_url']	= 'http://localhost/test/webfacilito/';
+>>>>>>> hola mundo
 
 /*
 |--------------------------------------------------------------------------
